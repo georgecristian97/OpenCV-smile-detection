@@ -1,6 +1,12 @@
 # OpenCV smile detection
  :innocent:Try harder if it tells you that it can't see your smile.
 
+
+
+![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/OpenCV-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/python-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/pycharm-logo.png)
+
+
+
 :grin: ​For a moment think like a machine: 
 
 -If I show you white horizontally line inside of mouth  you are a step closer to smile detection
